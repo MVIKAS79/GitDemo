@@ -1,0 +1,17 @@
+Mandatory commands:
+>> git init
+>> git remote add origin 
+
+
+git pull orogin main
+git status 
+
+git add
+git status
+git commit -m "commit message"
+git push
+
+
+>>To create a new branch
+git checkout -b "branchName"
+
